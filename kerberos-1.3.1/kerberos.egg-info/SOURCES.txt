@@ -1,5 +1,6 @@
 MANIFEST.in
 README.md
+setup.cfg
 setup.py
 kerberos.egg-info/PKG-INFO
 kerberos.egg-info/SOURCES.txt
